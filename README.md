@@ -2,7 +2,7 @@
 - 👀 I’m interested in tough problems
 - 🌱 I’m currently learning more Python and working towards my Master's in Analytics at Georgia Tech
 - 💞️ I’m looking to collaborate on ideas that help the human race
-- 📫 halterian07 [at] gmail [dot] com
+- 📫 halterian123 [at] gmail [dot] com
 
 <!---
 ihalter/ihalter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
